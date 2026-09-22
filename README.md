@@ -25,7 +25,7 @@ https://www.kaggle.com/datasets/blastchar/telco-customer-churn
 
 The dataset file used in this project is included in the project folder:
 
-`WA_Fn-UseC_-Telco-Customer-Churn.csv`
+`Telco-Customer-Churn.csv`
 
 ---
 
