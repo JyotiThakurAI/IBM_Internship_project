@@ -61,7 +61,7 @@ IBM_Internship/
 ├── requirements.txt
 ├── README.md
 ├── JyotiThakur_ProjectReport.docx
-└── WA_Fn-UseC_-Telco-Customer-Churn.csv
+└── Telco-Customer-Churn.csv
 ```
 
 ---
